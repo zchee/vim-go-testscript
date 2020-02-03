@@ -1,0 +1,4 @@
+# vim-go-testscript project gitattributes file
+# https://github.com/github/linguist#using-gitattributes
+
+doc linguist-documentation
